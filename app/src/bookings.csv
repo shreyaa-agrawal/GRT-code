@@ -1,0 +1,16 @@
+guest_id,email,room_id,from_date,to_date
+GUEST001,john.doe@email.com,ROOM101,2024-01-01,2024-01-03
+GUEST002,jane.smith@gmail.com,ROOM102,2024-01-05,2024-01-07
+GUEST003,bob.wilson@outlook.com,ROOM103,2024-01-10,2024-01-12
+GUEST004,alice.brown@yahoo.com,ROOM101,2024-01-15,2024-01-17
+GUEST005,charlie.davis@hotmail.com,ROOM201,2024-01-20,2024-01-22
+GUEST006,diana.miller@gmail.com,ROOM202,2024-01-25,2024-01-27
+GUEST007,edward.jones@email.com,ROOM301,2024-02-01,2024-02-03
+GUEST008,fiona.taylor@outlook.com,ROOM302,2024-02-05,2024-02-07
+GUEST009,george.white@yahoo.com,ROOM303,2024-02-10,2024-02-12
+GUEST010,helen.clark@gmail.com,ROOM104,2024-02-15,2024-02-17
+GUEST011,ivan.lewis@email.com,ROOM105,2024-02-20,2024-02-22
+GUEST012,julia.hall@hotmail.com,ROOM201,2024-03-01,2024-03-03
+GUEST013,kevin.young@outlook.com,ROOM202,2024-03-05,2024-03-07
+GUEST014,lucas.martin@gmail.com,ROOM204,2024-03-10,2024-03-12
+GUEST015,michael.wright@yahoo.com,ROOM302,2024-03-15,2024-03-17
